@@ -14,8 +14,8 @@ Before setting up the project, make sure you have the following installed on you
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ai-agent-dashboard.git
-   cd ai-agent-dashboard
+   git clone [https://github.com/Vishal2053/AI-powered-dashboard.git]
+   cd AI-powered-dashboard
    ```
 
 2. **Create a Virtual Environment**
